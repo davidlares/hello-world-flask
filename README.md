@@ -22,8 +22,7 @@ localhost:5000
 ```
 
 ## Créditos
-- [David E Lares S](https://davidlares.com)
+[David E Lares S](https://davidlares.com)
 
 ## Licencia
-
 [MIT](https://opensource.org/licenses/MIT)
