@@ -1,28 +1,28 @@
-## DavidFlask
+## Hello World Flask
 
-Aplicación Hello World usando el Microframework Flask. Desarrollo de aprendizaje de Py3
+Hello World Application Using the Flask Microframework. Learning Py3 Development
 
-## Requisitos
+## Prerequisites
 
-- Pypi - Package Package Index instalado 
-- virtualEnv para el soporte de multiples versiones de las dependencias (ver requirements.txt)
+- Pypi - Package Index installed
+- virtualEnv to support multiple versions of dependencies (see requirements.txt)
 
-## Instalación
+## Installation
 
-Antes de correr el script en el CLI se debe tener el Venv corriendo
+Before running the script in the CLI, you must have Venv running.
 
 ```
 python main.py
 ```
 
-## Uso
+## Usage
 
 ```
 localhost:5000
 ```
 
-## Créditos
-[David E Lares S](https://davidlares.com)
+## Credits
+[David Lares S](https://davidlares.com)
 
-## Licencia
+## License
 [MIT](https://opensource.org/licenses/MIT)
